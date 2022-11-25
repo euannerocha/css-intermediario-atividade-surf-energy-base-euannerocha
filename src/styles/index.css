@@ -38,3 +38,13 @@ h4 {
   display: flex;
   flex-wrap: wrap;
 }
+
+.wave1{
+  position: absolute;
+  bottom: 228px;
+}
+
+.wave2{
+  position: relative;
+  bottom: -167px;
+}

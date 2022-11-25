@@ -23,6 +23,8 @@
   color: var(--color-grey-4);
   height: 52px;
   font-size: var(--font-size-4);
+  position: sticky;
+  top: 0px;
 }
 
 .outline-light:hover {
