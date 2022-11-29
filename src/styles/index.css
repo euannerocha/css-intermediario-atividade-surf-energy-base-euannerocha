@@ -10,6 +10,7 @@ h4 {
 .home-header {
   padding: 200px 0;
   background-image: url(./../images/bg.jpg);
+  position: relative;
 }
 
 .home-header-content {
@@ -41,10 +42,12 @@ h4 {
 
 .wave1{
   position: absolute;
-  bottom: 228px;
+  bottom: -1px;
+  width: 100%;
 }
 
 .wave2{
-  position: relative;
-  bottom: -167px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
 }
